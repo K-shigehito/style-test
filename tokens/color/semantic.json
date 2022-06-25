@@ -1,0 +1,5 @@
+{
+  "color": {
+    "Text Main": { "value": "{color.base.gray.500.value}" }
+  }
+}
